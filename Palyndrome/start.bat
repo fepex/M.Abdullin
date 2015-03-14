@@ -1,0 +1,1 @@
+java -cp ./bin ru.kpfu.itis.group403.abdullin.divideandconquer.Palyndrom
